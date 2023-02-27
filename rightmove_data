@@ -1,0 +1,1264 @@
+address,house_type,bedrooms,bathrooms,guide_price
+"Upper Parliament Street, Nottingham, NG1 2AP",Flat,1,1,75000.0
+STUDENT PROPERTY NOTTINGHAM CITY CENTER,House Share,5,5,4950000.0
+"Fairmont, Edwalton",Detached,5,5,3700000.0
+"Fairmont, Edwalton",Detached,5,5,3700000.0
+"North Sherwood street, Nottingham",House Share,4,4,3600000.0
+"Talbot House, 18-20 Bridgford Road, West Bridgford, Nottingham, NG2 6AB",Block of Apartments,,,3000000.0
+"Magdala Road, Mapperley Park ",Detached,8,8,2550000.0
+"Park Terrace, Nottingham, NG1",Detached,6,6,1995000.0
+"Bridle Road, Bramcote, Nottingham",Detached,7,7,1800000.0
+"The Old Coach House, Woodborough, Nottingham, NG14",Detached,5,5,1800000.0
+"Church Lane, Linby, Nottingham, Nottinghamshire, NG15",Land for sale,,,1800000.0
+"Hallfields, Edwalton, Nottingham, Nottinghamshire, NG12",Detached,6,6,1800000.0
+"Melton Road, Nottingham, NG2",Detached,5,5,1750000.0
+"Beeston Fields Drive, Beeston",Detached,5,5,1700000.0
+"Tattershall Drive, The Park",Detached,6,6,1625000.0
+"Manor Park, Ruddington",Detached,7,7,1600000.0
+"The Glade, Melton Road ",Detached,5,5,1600000.0
+"Wilford Lane, West Bridgford, Nottingham, Nottinghamshire, NG2",Plot for sale,,,1500000.0
+"The Cedars, Nottingham",Manor House,1,1,1450000.0
+"88-90 Melton Road, Nottingham, NG2",Land for sale,,,1400000.0
+"Adams Hill, Derby Road, Wollaton Park, Nottingham, NG7",Detached,8,8,1350000.0
+"Firs Road, Edwalton",Detached,4,4,1300000.0
+"Hardwick Grove, The Park, NG7",Detached,5,5,1300000.0
+"Spring Lane, Nottingham, NG4",Land for sale,,,1250000.0
+"Clifton Lane, Ruddington",Detached Bungalow,4,4,1250000.0
+"Newstead Road, Annesley, Nottingham",Terraced,2,2,180000.0
+"Lambley Lane, Burton Joyce, Nottinghamshire, NG14 5BN",Detached,5,5,1250000.0
+"Cow Lane, Bramcote, Nottinghamshire, NG9 3BB",Detached,4,4,1250000.0
+"Main Street, Linby, Nottingham",Detached,5,5,1250000.0
+Discover the homely sanctuary of The Hollies,House,6,6,1200000.0
+"The Chancery, Bramcote",Detached,5,5,1150000.0
+"Tollerton Lane, Tollerton, Nottingham, Nottinghamshire",Detached,5,5,1150000.0
+"Arlington Drive, Mapperley Park, Nottingham",Semi-Detached,5,5,1150000.0
+"Tollerton Lane, Tollerton, Nottingham",House,6,6,1150000.0
+"Glebe Farm, Burton Joyce, Nottingham",Detached,5,5,1120950.0
+"St. Winifreds Court, Kingston-on-Soar, Nottingham, Nottinghamshire, NG11",Detached,5,5,1100000.0
+"St James Street, Nottingham",House Share,1,1,1100000.0
+"Woodborough Road, Nottingham",Apartment,,,1075000.0
+"Waverley Street, Nottingham",Town House,1,1,1000000.0
+"Lambley Lane, Gedling, Nottingham, NG4",Land for sale,,,
+"Melton Road, Edwalton, Nottingham",Land for sale,,,1000000.0
+"Wilford Lane, West Bridgford, NG2",Detached,4,4,1000000.0
+"Cornwalls Hill, Lambley, Nottingham",Detached,3,3,1000000.0
+"2 South Parade, Nottingham, NG1",Apartment,8,8,1000000.0
+"Lambley Lane, Gedling, Nottingham, NG4",Land for sale,,,
+"Melton Road, Edwalton, Nottingham, Nottinghamshire, NG12",Plot for sale,,,1000000.0
+"Old Melton Road, Keyworth, Nottingham",Detached,5,5,1000000.0
+"Hollies Drive, Edwalton",Detached,5,5,995000.0
+"Sutherland Drive, West Bridgford, Nottingham",Detached Bungalow,2,2,985000.0
+"Hallfields, Edwalton",Detached,5,5,950000.0
+"Manor Avenue, Stapleford, Nottingham, NG9",Detached,3,3,260000.0
+"Glebe Farm, Burton Joyce, Nottingham",Detached,5,5,947750.0
+"Glebe Farm, Burton Joyce, Nottingham",Detached,5,5,942950.0
+"Carisbrooke Avenue, Mapperley Park",Detached,5,5,925000.0
+"Bramcote Drive West, Beeston Nottingham, NG9",Detached,4,4,925000.0
+"Radcliffe Road, West Bridgford",House Share,1,1,900000.0
+"28 Beech Avenue, New Basford, Nottingham, Nottinghamshire, NG7 7LL",Block of Apartments,,,900000.0
+"Lambley Lane, Burton Joyce, Nottinghamshire, NG14 5BG",Detached,4,4,900000.0
+"Orchard House, Main Street, Calverton",Detached,5,5,900000.0
+"Mansfield Road, Woodthorpe, Nottingham",Detached,4,4,900000.0
+"Fairfield Crescent, Sawley",Detached,7,7,875000.0
+"Priory Road, West Bridgford, NG2 5HX",Detached,4,4,850000.0
+"Cow Lane, Bramcote",Detached,4,4,850000.0
+"Epperstone Road, West Bridgford, Nottingham, NG2",Detached,5,5,850000.0
+"(Plot 13), Block A, The Yacht Club, NG2",Apartment,3,3,850000.0
+"Yacht Club Place, Trent Lane, Nottingham",Apartment,3,3,850000.0
+"The Chancery, Bramcote",House,4,4,850000.0
+"Manor Road, Barton-In-Fabis, Nottinghamshire, NG11 0AA",Detached,5,5,850000.0
+"Jessops Lane, Gedling, Nottingham",Detached,7,7,850000.0
+"The Stables, Barton-In-Fabis, Nottingham",Detached,5,5,850000.0
+"Wellington Road, Burton Joyce, Nottingham",Detached,5,5,850000.0
+"Villiers Road, Woodthorpe, Nottingham",Detached,5,5,850000.0
+"Derby Road, Long Eaton",Detached,6,6,849950.0
+"Glebe Farm, Burton Joyce, Nottingham",Detached,4,4,849500.0
+"Ellesmere Road, West Bridgford, Nottingham",Detached,4,4,830000.0
+"Hounds Gate, Nottingham",Apartment,2,2,240000.0
+"Elm Avenue, Attenborough",Detached,4,4,825000.0
+"Church Street, Sandiacre",Detached,5,5,825000.0
+"Wollaton Vale, Wollaton",Detached,4,4,825000.0
+"Musters Road, West Bridgford, Nottinghamshire, NG2 7DR",Detached,5,5,800000.0
+"Russell Drive, Wollaton, Nottinghamshire, NG8 2BE",Detached,5,5,800000.0
+"Mansfield Road, Nottingham",Detached,5,5,800000.0
+"Musters Road, West Bridgford",Semi-Detached,5,5,800000.0
+"Plains Road, Mapperley, Nottingham",Detached,4,4,800000.0
+"Elm Avenue, Attenborough, Nottingham",Detached,4,4,800000.0
+"The Bungalow, Bank Hill Farm, Woodborough, Nottinghamshire, NG14 6EF",Detached Bungalow,3,3,800000.0
+"Main Road, Wilford, NOTTINGHAM",Detached,7,7,800000.0
+"145 Beardall Street, Nottingham, NG15",Detached,1,1,800000.0
+"Ash Grove, Woodborough, Nottinghamshire, NG14 6DR",Detached,5,5,800000.0
+"Cleve Avenue, Toton",Detached,5,5,799950.0
+"The Granary, Barton-In-Fabis, Nottingham",Detached,5,5,795000.0
+"Chaworth Road, West Bridgford",Detached,5,5,795000.0
+"Church Lane, Thrumpton, Nottingham",Barn Conversion,4,4,795000.0
+"Babbington, Nottingham, NG16",Plot for sale,,,795000.0
+"The Granary, Manor Road, Barton-In-Fabis, Nottinghamshire, NG11 0AB",Detached,5,5,795000.0
+"Chaworth Road, Nottingham",Detached,5,5,795000.0
+"Wilford Road, Ruddington, Nottingham",Detached,4,4,785000.0
+"Ivy House, 9 Main Street, Nottingham",Cottage,4,4,780000.0
+"Edmonton Court, West Bridgford, Nottingham",Detached,5,5,780000.0
+"River Crescent, Waterside Way, NG2",Apartment,3,3,775000.0
+"Weekday Cross, Pilcher Gate",Apartment,2,2,185000.0
+"Sherborne Road, West Bridgford, NG2",Detached,4,4,750000.0
+"Beeston Fields Drive, Beeston, Nottingham",Detached,5,5,750000.0
+"Plot 5, The Green, Wilford Village",Detached,4,4,750000.0
+"Common Lane, Hucknall, Nottinghamshire, NG15",Detached,5,5,750000.0
+"Plot 1, The Green, Wilford Village",Detached,4,4,750000.0
+"Lambley Lane, Burton Joyce, Nottingham, NG14 5BL",Detached,4,4,750000.0
+"The Penthouse, The Lace Market, NG1",Penthouse,3,3,750000.0
+"Lanark Close, Nottingham, NG8",Bungalow,3,3,750000.0
+Penthouse Apartment 34 Riverside,Apartment,3,3,750000.0
+"The Strand, Attenborough, Nottingham",Detached,4,4,750000.0
+"Knowle Lane, Kimberley, Nottingham, NG16",Detached,5,5,750000.0
+"Trowell Road, Wollaton",Detached,8,8,750000.0
+"Main Street, Woodborough, Nottingham NG14",Detached,5,5,750000.0
+"Musters Road, West Bridgford, Nottinghamshire, NG2 7DQ",Detached,4,4,750000.0
+"Katherine Drive, Toton",Detached,4,4,745000.0
+"Plot 3, The Green, Wilford Village",Detached,4,4,735000.0
+"Roe Hill, Nottinghamshire, NG14",Detached,4,4,725000.0
+"Rydal Drive, Beeston",Detached,4,4,725000.0
+"Church Street, Lambley, NG4",Detached,6,6,725000.0
+"Loughborough Road, West Bridgford",Detached,5,5,725000.0
+"Plot 4, The Green, Wilford Village",Detached,4,4,725000.0
+"Loxley Meadow, Burton Joyce",Detached,5,5,725000.0
+"Plot 2, The Green, Wilford Village",Detached,4,4,725000.0
+"Cinderhill Road, Bulwell, Nottingham, Nottinghamshire, NG6 8SB",Block of Apartments,,,725000.0
+"Park Road,
+Calverton,
+Nottingham,
+NG14 6BP",Detached,3,3,271995.0
+Duplex Apartment,Apartment,3,3,725000.0
+"Melton Road, Tollerton, Nottingham",Detached,5,5,700000.0
+"Canterbury Close, Nuthall, Nottingham",Detached,6,6,700000.0
+"Henry Road, West Bridgford, Nottingham, NG2",Semi-Detached,5,5,700000.0
+"Haslemere Road, Long Eaton",Detached,4,4,700000.0
+"Manor Road, Barton-In-Fabis, Nottinghamshire, NG11 0AA",Detached,5,5,700000.0
+"Woodborough Road, Nottingham, Nottinghamshire, NG3",Detached,9,9,700000.0
+"The Hay Loft, Manor Road,  Barton-In-Fabis, Nottingham, ng11 0aa",Detached,4,4,700000.0
+"Spinney View, Landmere Lane, Ruddington, Nottingham",Detached Bungalow,3,3,700000.0
+"Loughborough Road, West Bridgford, Nottinghamshire, NG2 7EG",Detached,4,4,700000.0
+"Manor Farm, Ratcliffe-On-Soar, Nottingham",Detached,4,4,700000.0
+"Padleys Lane, Burton Joyce, Nottingham",Detached,3,3,700000.0
+"The Ridings, Bulcote, Burton  Joyce",Detached,4,4,700000.0
+"Manor Road, Barton in Fabis",Detached,5,5,700000.0
+"George Road, West Bridgford, Nottingham",Semi-Detached,4,4,699950.0
+"Tavistock Drive, Mapperley Park , Nottingham",Detached,5,5,699000.0
+"Nottingham Road, Long Eaton, Derbyshire, NG10 2BU",Detached,6,6,695000.0
+"The Gables, Plains Road, Mapperley Plains",Apartment,8,8,695000.0
+"Hollies Barn, Main Road, Watnall, Nottinghamshire, NG16",Character Property,5,5,695000.0
+"Clarkes Lane, Beeston, Nottingham, NG9",Detached,4,4,695000.0
+"Linden Homes, 
+Melton Road,
+Edwalton,
+NG12",Detached,5,5,694995.0
+"Linden Homes, 
+Melton Road,
+Edwalton,
+NG12",Detached,5,5,694995.0
+"Field Lane, Woodborough, Nottingham",Detached Bungalow,4,4,685000.0
+"Tollerton Lane, Tollerton, Nottingham",Detached,5,5,685000.0
+"Livingstone Street, Newstead Village, Nottingham",Terraced,2,2,150000.0
+"Leigh Close, West Bridgford, Nottingham",Detached,5,5,675000.0
+"Hurts Croft, Chilwell, NG9 5DE",Detached,4,4,675000.0
+"Patrick Road, West Bridgford, Nottingham, NG2",Semi-Detached,4,4,675000.0
+"Moor Road, Nottingham",Detached,5,5,675000.0
+"West Street, Hucknall, Nottinghamshire, NG15",Land for sale,,,675000.0
+"Highgrove Gardens, Edwalton, Nottinghamshire, NG12 4DF",Detached Bungalow,3,3,675000.0
+"Main Street, Woodborough, Nottinghamshire, NG14 6DD",Detached,4,4,675000.0
+"Cromwell Road, Beeston",Semi-Detached,4,4,675000.0
+"Burleigh Road, West Bridgford, Nottingham",Detached,4,4,675000.0
+"The Manor House, Meadow Lane, Burton Joyce, Nottingham, NG14 5EX",Character Property,4,4,675000.0
+"Melton Road,
+West Bridgford,
+Nottingham,
+NG12",Detached,5,5,674995.0
+"Melton Road,
+West Bridgford,
+Nottingham,
+NG12",Detached,5,5,674995.0
+"Parkside Gardens, Wollaton",Detached,4,4,665000.0
+"Corporation Oaks, Nottingham",Detached,,,655000.0
+"The Penthouse, The Waterside, West Bridgford, NG2 5PH",Penthouse,3,3,650000.0
+"Linden Grove, Gedling, Nottingham, NG4",Detached,5,5,650000.0
+"Leabrook Close, Clifton Village, Nottinghamshire, NG11 8NW",Detached,4,4,650000.0
+"Main Street, Kimberley, Nottingham",Character Property,6,6,650000.0
+"Main Street, Nottingham",Detached,3,3,650000.0
+"Melbury Road, Woodthorpe, Nottingham, NG5",Detached,7,7,650000.0
+"Chaworth Road, West Bridgford, Nottingham",Semi-Detached,5,5,650000.0
+"Sandfield Road, Arnold, Nottingham",Detached,3,3,650000.0
+"Leake Road, Gotham, Nottingham",Detached,4,4,650000.0
+"Vicarage Street, Beeston",Detached,3,3,650000.0
+"Loscoe Road, Carrington, Nottinghamshire, NG5 2AW",Terraced,2,2,160000.0
+"Penthouse 4, The Waterside, Trent Bridge, West Bridgford, NG2 5PL",Penthouse,3,3,650000.0
+"Derwent Crescent, Arnold, Nottingham",Land for sale,,,650000.0
+"Far Street, Bradmore, Nottingham",Detached,3,3,650000.0
+"Beedham Way, Alexandra Place, Mapperley Plains, Nottingham, NG3",Detached,4,4,650000.0
+"Hillcrest Gardens, Burton Joyce, Nottingham",Detached Bungalow,4,4,650000.0
+"Rosemount, St Ann's Hill, Nottingham",Apartment,,,650000.0
+"Penthouse 8, The Waterside Apartments",Apartment,3,3,650000.0
+"Penthouse 6, The Waterside",Apartment,3,3,650000.0
+"Wilford Lane, West Bridgford, Nottinghamshire, NG2 7RN",Semi-Detached,4,4,650000.0
+"South Road, West Bridgford, Nottingham",Semi-Detached,5,5,650000.0
+"Denton Drive, West Bridgford, Nottinghamshire, NG2 7FS",Detached,5,5,650000.0
+"Redmays Drive, Bulcote, Nottingham, NG14 5GZ",Detached,4,4,650000.0
+"Belfry Way, Edwalton, Nottinghamshire, NG12 4FA",Detached,4,4,650000.0
+"Trent Bridge View, Nottingham",Apartment,2,2,645000.0
+"Linden Homes, 
+Melton Road,
+Edwalton,
+NG12",Detached,5,5,644995.0
+"Wilne Road, Sawley",Cottage,6,6,635000.0
+"Highfield Road, West Bridgford, Nottingham",Semi-Detached,5,5,635000.0
+"Church Lane, Thrumpton  Nottingham",Detached Bungalow,3,3,635000.0
+"Tranby Gardens, Wollaton, Nottingham, NG8",Detached,4,4,630000.0
+"Davies Road, West Bridgford, Nottinghamshire, NG2 5HY",Detached,4,4,625000.0
+"Moorgreen, Nottingham",Detached,4,4,625000.0
+"Tamworth Road, Sawley",Detached,4,4,625000.0
+"Musters Road, Ruddington, Nottingham",Detached,4,4,625000.0
+"Derby Road, Beeston, NG9",Detached,4,4,625000.0
+"Elmtree Road, Calverton, Nottingham",Detached,4,4,300000.0
+"Old Tollerton Road, Gamston, Nottingham, NG2",Bungalow,4,4,625000.0
+"Criftin Road, Burton Joyce",Semi-Detached,4,4,625000.0
+"Church Lane, Thrumpton, NG11",Bungalow,3,3,625000.0
+"Trent Bridge View, Nottingham",Penthouse,3,3,625000.0
+"Thorncliffe Road, Mapperley Park , Nottingham",Detached,8,8,625000.0
+"Maple Avenue, Sandiacre, Nottingham",Detached,3,3,625000.0
+"Cranfleet Way, Long Eaton, Nottingham",Detached,5,5,625000.0
+"North Road, West Bridgford, Nottinghamshire, NG2 7NG",Semi-Detached,4,4,625000.0
+"Nottingham Road, Burton Joyce",Detached,4,4,625000.0
+"Derby Road, Lenton, Nottingham",Semi-Detached,7,7,620000.0
+"Florence Road, West Bridgford, Nottingham, NG2",Detached,4,4,620000.0
+"Alexander Road, The Park , Nottingham",Detached,5,5,615950.0
+"Westdale Lane East, Mapperley, Nottingham",Detached,5,5,600000.0
+"Oakdale Road, Carlton, Nottingham",Detached,4,4,600000.0
+"Hazel Grove, Mapperley, Nottinghamshire, NG3 6DQ",Detached,5,5,600000.0
+"Moorgreen, Newthorpe, Nottingham, NG16",Detached,4,4,600000.0
+"Calstock Road, Woodthorpe, Nottinghamshire, NG5 4FH",Detached,4,4,600000.0
+"Barbrook Close, Wollaton, Nottinghamshire, NG8 1JG",Detached,5,5,600000.0
+"Sherwood Vale, Nottingham, NG5",Detached,6,6,600000.0
+"Papplewick Lane, Hucknall, Nottinghamshire, NG15 8EH",Detached,5,5,600000.0
+"Moorgreen, Newthorpe, Nottingham, NG16",Detached,4,4,600000.0
+"6 Willow Wong, Nottinghamshire, NG14 5FD",Detached,4,4,600000.0
+"Sherwood Vale, Sherwood",Detached,5,5,600000.0
+"Mountbatten Way, Chilwell, NG9",Detached,6,6,600000.0
+"Yacht Club Place, Trent Lane, Nottingham",Apartment,3,3,850000.0
+"Westdale Lane, Mapperley, Nottingham",Land for sale,,,600000.0
+"Arundel Drive, Bramcote, Nottinghamshire, NG9 3FX",Detached,5,5,600000.0
+"Mountbatten Way, Chilwell, Nottinghamshire, NG9 6RX",Detached,6,6,600000.0
+"Clarkes Lane, Chilwell NG9 5BL",Detached,5,5,600000.0
+"Kingsdown Mount, Wollaton",Detached,4,4,600000.0
+"Wollaton,
+Nottingham,
+NG8",Detached,5,5,599995.0
+"Henry Road, West Bridgford, Nottingham",Semi-Detached,4,4,599995.0
+"Cedar Road, Chilwell, NG9 4DB",Detached,5,5,595000.0
+"Ella Road, West Bridgford, NG2 5GX",Semi-Detached,4,4,595000.0
+"South Road, The Park, Nottingham, NG7",Semi-Detached,3,3,595000.0
+"Ellesmere Road, West Bridgford, NG2 7DE",Detached Bungalow,3,3,595000.0
+"Reigate Drive, Attenborough, Nottingham",Detached,3,3,595000.0
+Apartment 13,Apartment,3,3,595000.0
+"Ashview Close, Long Eaton",Detached,4,4,589950.0
+"Willoughby Road, West Bridgford, NG2 6EZ",Detached,4,4,585000.0
+"Grangewood Road, Wollaton",House,5,5,580000.0
+"Brendon Road, Wollaton, Nottinghamshire, NG8",Detached,5,5,580000.0
+"Mapperley Park, NOTTINGHAM, NG3",Semi-Detached,4,4,575000.0
+"Holles Crescent, Nottingham, Nottinghamshire, NG7",Semi-Detached,5,5,575000.0
+"Redmays Drive, Bulcote, Nottinghamshire, NG14 5GZ",Detached,3,3,575000.0
+"Parker Gardens, Nottingham",Detached,4,4,575000.0
+"Elm Avenue, Beeston, Nottingham",Detached Bungalow,2,2,575000.0
+"Church Drive, Sandiacre, Nottingham, NG10",Detached,3,3,575000.0
+"Lucknow Avenue, Mapperley Park, Nottingham, NG3",Semi-Detached,5,5,575000.0
+"Yacht Club Place, Trent Lane, Nottingham",Apartment,3,3,850000.0
+"Sandford Road, Nottingham",Detached,5,5,575000.0
+"Holles Crescent, The Park , Nottingham",Semi-Detached,5,5,575000.0
+"Main Road, Gedling, Nottingham",Semi-Detached,4,4,575000.0
+"Ashdale Gardens, Burton Joyce",Detached,4,4,575000.0
+"Ashdale Gardens, Burton Joyce",Detached,4,4,575000.0
+"Cedar Grove, Wollaton",Bungalow,3,3,575000.0
+"37 Derby Rd, Long Eaton, Nottingham, NG10",Not Specified,,,575000.0
+"Sandford Road, Nottingham",Detached,5,5,575000.0
+"Cranberry Close, West Bridgford, Nottinghamshire, NG2 7TQ",Detached,4,4,575000.0
+"Trent Avenue, Ruddington, Nottingham",Detached,4,4,575000.0
+"Mansfield Road, Nottingham, Nottinghamshire, NG1",House of Multiple Occupation,6,6,575000.0
+"Ashdale Gardens, Burton Joyce",Detached,4,4,575000.0
+"Loughborough Road, Nottingham, NG11",Bungalow,4,4,575000.0
+"Radcliffe Road, West Bridgford, Nottinghamshire, NG2 5HD",Detached Bungalow,4,4,575000.0
+"Beeston Road, Nottingham",Terraced,6,6,572775.0
+"Rathgar Close, Wollaton, Nottinghamshire, NG8",Detached,4,4,570000.0
+"Ravensdale Drive, Nottingham, NG8",Detached,4,4,560000.0
+"Cyprus Road, Mapperley Park, Nottingham",Detached,4,4,559950.0
+"Badger Vale, Wollaton, Nottinghamshire, NG8",Detached,4,4,559950.0
+"Cornwall Drive, Long Eaton, Nottinghamshire, NG10 2GR",Detached,5,5,550000.0
+"Davies Road, West Bridgford",Semi-Detached,3,3,550000.0
+"Roberts Lane, Hucknall, Nottingham",Land for sale,,,550000.0
+"Jessops Lane, Gedling Village, Nottingham",Detached,5,5,550000.0
+"Loughborough Road, Nottingham",Semi-Detached,4,4,550000.0
+"Percival Road, Sherwood, Nottinghamshire, NG5 2FA",Terraced,3,3,250000.0
+"Loughborough Road, West Bridgford, Nottingham, Nottinghamshire, NG2",Semi-Detached,5,5,550000.0
+"Chaworth Road, West Bridgford, Nottingham",Semi-Detached,4,4,550000.0
+"Wood Farm Court, Thrumpton, Nottingham",Detached,4,4,550000.0
+"Main Street, Woodborough, Nottingham",Cottage,3,3,550000.0
+"Willow Road, West Bridgford, Nottinghamshire, NG2 7AY",Detached,4,4,550000.0
+"Deepdale Road, Nottingham, NG8",Detached,4,4,550000.0
+"University Boulevard, Beeston NG9 2GJ",Detached,4,4,550000.0
+"Mapperley Plains, Nottingham",Detached,4,4,550000.0
+"Walcote Drive, West Bridgford, Nottingham",Detached,4,4,550000.0
+"Lenton Street, Sandiacre, Nottingham",Detached,5,5,550000.0
+"Rose Way, Edwalton, Nottingham",Detached,4,4,550000.0
+"Ebers Road, Mapperley Park, NG3",Semi-Detached,4,4,550000.0
+"Alfreton Road, Radford, NG7 3NS",Block of Apartments,,,550000.0
+"Sidney Road, Beeston",Detached,7,7,550000.0
+"Walcote Drive, West Bridgford",Detached,3,3,550000.0
+"College Road, Mapperley, Nottingham",Detached,5,5,550000.0
+"Musters Road, West Bridgford",Detached,3,3,550000.0
+"Chedington Avenue, Mapperley, Nottingham",Detached,5,5,550000.0
+"Dorset Gardens, West Bridgford NG2 7UH",Detached,4,4,550000.0
+"Prestwood Drive, Nottingham",Detached,5,5,550000.0
+"Montgomery Close, Chilwell",Detached,4,4,550000.0
+"Holly Road, Watnall, Nottingham, NG16",Detached,6,6,550000.0
+"Pegswood Drive, Arnold, Nottinghamshire, NG5 8TX",Detached,5,5,550000.0
+"Linden Homes, 
+Melton Road,
+Edwalton,
+NG12",Detached,5,5,549995.0
+"Foxhill Road, Carlton, Nottinghamshire,NG4 1PZ",Detached,4,4,350000.0
+"Plant Lane, Sawley",Detached,5,5,549950.0
+"Arundel Drive, Bramcote, Nottingham, NG9",Detached,3,3,549000.0
+"Melton Road,
+West Bridgford,
+Nottingham,
+NG12",Detached,4,4,544995.0
+"Melton Road,
+West Bridgford,
+Nottingham,
+NG12",Detached,4,4,544995.0
+"Melton Road,
+West Bridgford,
+Nottingham,
+NG12",Detached,4,4,544995.0
+"Melton Road,
+West Bridgford,
+Nottingham,
+NG12",Detached,4,4,544995.0
+"Walcote Drive, West Bridgford, Nottingham",Detached,4,4,540000.0
+"Nottingham Road, Long Eaton",Detached,4,4,535000.0
+"Ruddington,
+Nottingham,
+NG11",Detached,4,4,534950.0
+"Hungerton Street, Nottingham, Nottinghamshire, NG7",Semi-Detached,6,6,530000.0
+"Prestwood Drive, Aspley",Detached,4,4,530000.0
+"Ruddington,
+Nottingham,
+NG11",Detached,4,4,529950.0
+"Dovecote Lane, Beeston, Nottingham, NG9",Detached,4,4,525000.0
+"Lyme Park, West Bridgford, Nottingham",Detached,4,4,525000.0
+"Holme House, Holme Pierrepont",Manor House,5,5,525000.0
+"Epperstone Road, West Bridgford, NG2 7QF",Semi-Detached,4,4,525000.0
+"Tattershall Drive, The Park ",Mews,3,3,525000.0
+"Eton Grove, Nottingham, NG8",Detached,4,4,525000.0
+"Buckingham Road, Sandiacre",Detached,6,6,525000.0
+"Ribblesdale Road, Sherwood Dales",Detached,5,5,525000.0
+"Thoresby Road, Bramcote, Nottingham, NG9",Detached,4,4,525000.0
+"(Plot 29 ) B Block, The Yacht Club, NG2",Apartment,2,2,525000.0
+"Melton Road, West Bridgford, NG2 6FJ",Semi-Detached,4,4,525000.0
+"Ednaston Road, Nottingham, NG7",Semi-Detached,6,6,525000.0
+"Stanton Road, Sandiacre, Nottingham, Derbyshire, NG10",Semi-Detached,3,3,390000.0
+"Dorset Gardens, West Bridgford",Detached,5,5,525000.0
+"Fellows Road, Beeston, NG9 1AQ",Semi-Detached,4,4,525000.0
+"Ellington Road, Arnold, Nottinghamshire, NG5 8SJ",Detached,5,5,525000.0
+"The Birch, Elizabeth Gardens, Watnall Road, Hucknall, Nottinghamshire, NG15",Detached,3,3,525000.0
+"Hambledon Drive, Nottingham",Detached,4,4,525000.0
+"Pendine Close, Redhill, Nottinghamshire, NG5 8NS",Detached,4,4,525000.0
+"Yacht Club Place, Nottingham",Apartment,2,2,525000.0
+"The Glasshouse, Balmoral Avenue, West Bridgford",Apartment,2,2,525000.0
+"Redcliffe Road, Nottingham",Terraced,4,4,525000.0
+"Moor Lane, Bramcote",Detached,4,4,525000.0
+"Main Street, Woodborough, Nottingham",Detached,4,4,520000.0
+"Brownsmill Way, Nottingham",Detached,4,4,519995.0
+"St. Georges Drive, Nottingham, NG9",Detached,4,4,515000.0
+"Hedgehog Gardens, West Bridgford, NG2",Detached,4,4,510000.0
+"Ebers Road, Nottingham, NG3",House,7,7,510000.0
+"Ebers Road, Mapperley Park",Semi-Detached,6,6,500000.0
+"Tennyson Grange, Gedling, Nottingham, NG4",Detached,4,4,500000.0
+"Shelt Hill, Woodborough, Nottingham, NG14",House,4,4,500000.0
+"Albert Road, Alexandra Park, Nottingham",Detached,5,5,500000.0
+"Wellington Street, Long Eaton",Detached,4,4,500000.0
+"Villiers Road, Woodthorpe, Nottinghamshire, NG5 4FB",Semi-Detached,4,4,500000.0
+"High Meadow, Tollerton, Nottingham",Detached,3,3,500000.0
+"St. Helens Road, West Bridgford, Nottinghamshire, NG2 6EX",Detached,3,3,500000.0
+"Seven Oaks Crescent, Bramcote, Nottingham, Nottinghamshire, NG9",Detached,4,4,500000.0
+"Kenny Avenue, Wilford, Nottingham",Detached,4,4,425000.0
+"Holme Close, Woodborough, Nottinghamshire, NG14 6EX",Detached,5,5,500000.0
+"Wilford Lane, West Bridgford",Detached,3,3,500000.0
+"Thorncliffe Rise, Mapperley Park , Nottingham",Detached,4,4,500000.0
+"Sandford Road, Mapperley, Nottingham",Detached,4,4,500000.0
+"Radcliffe Road, Stragglethorpe, NG12",Manor House,5,5,500000.0
+"St. Austins Drive, Carlton, Nottingham, NG4",Detached,4,4,500000.0
+"Lowdham Lane, Woodborough, Nottingham",Semi-Detached,3,3,500000.0
+"Prestwood Drive, Nottingham, NG8",Detached,5,5,500000.0
+"St. Austins Drive, Carlton, Nottingham, NG4",Detached,4,4,500000.0
+"Musters Road, Ruddington, Nottingham",Detached,4,4,500000.0
+"Melton Road, West Bridgford, Nottinghamshire, NG2 7NW",Semi-Detached,4,4,500000.0
+"Kirk Lane, Ruddington",Detached Bungalow,3,3,500000.0
+"Moorings, Private Road, Woodborough, Nottinghamshire, NG14 6DW",Detached,3,3,500000.0
+"Langstrath Drive, West Bridgford, Nottinghamshire, NG2 6SD",Detached,4,4,500000.0
+"Ruddington,
+Nottingham,
+NG11",Detached,4,4,499950.0
+"Queens Road, Beeston, Nottingham, NG9 1JA",End of Terrace,7,7,499950.0
+"Sutton Passeys Crescent, Nottingham, NG8",Detached,4,4,499950.0
+"Bunny Lane, 
+Keyworth,
+NG12 5LP",Detached,5,5,499950.0
+"Wollaton Road, Beeston",Detached,4,4,495000.0
+"Loughborough Road, West Bridgford, Nottingham",Semi-Detached,5,5,495000.0
+"Watcombe Circus, Nottingham",Detached,5,5,495000.0
+"Crow Park Drive, Burton Joyce",Detached Bungalow,3,3,495000.0
+"Albert Road, West Bridgford, Nottingham",Link Detached House,3,3,495000.0
+"Northcliffe Avenue, Mapperley, Nottingham",Detached,5,5,495000.0
+"Grouville Drive, Woodthorpe, Nottinghamshire, NG5 4NN",Detached,4,4,340000.0
+"Queens Road East, Beeston, Nottingham, NG9 2GS",Detached,6,6,495000.0
+"The Spinney, Bulcote",Detached,4,4,495000.0
+"Shaldon Close, Nottingham, NG3",Detached,4,4,495000.0
+"Main Street, Burton Joyce, Nottingham",Detached,5,5,495000.0
+"Ruddington,
+Nottingham,
+NG11",Detached,4,4,494950.0
+"Sunningdale Drive, Woodborough, Nottingham",Detached Bungalow,5,5,490000.0
+"Latimer Drive, Bramcote",Detached,5,5,490000.0
+"Derby Road, Nottingham",Apartment,3,3,485000.0
+"Podder Lane, Mapperley Plains",Detached,4,4,485000.0
+"Melton Gardens, Edwalton, NG12 4BJ",Detached,4,4,485000.0
+"Melton Gardens, Edwalton, Nottingham",Detached,4,4,480000.0
+"Melton Road,
+West Bridgford,
+Nottingham,
+NG12",Detached,4,4,479995.0
+"Bunny Lane, 
+Keyworth,
+NG12 5LP",Detached,4,4,479950.0
+"Apt 78 (Plot 36) C Block, The Yacht Club, NG2",Apartment,2,2,475000.0
+"Deans Croft, Bramcote, Nottinghamshire, NG9 3FL",Detached,3,3,475000.0
+"Middle Street, Beeston, Nottingham, NG9 2AR",Detached,6,6,475000.0
+"Beeston Close, Bestwood Village, NOTTINGHAM",Detached,4,4,475000.0
+"Davidson Gardens, Ruddington, Nottingham",Link Detached House,4,4,475000.0
+"Cooper Gardens, Ruddington, Nottinghamshire, NG11 6AZ",Detached,4,4,475000.0
+"Torvill Drive, Wollaton, Nottinghamshire, NG8",Detached,4,4,475000.0
+"Goodwood Road, Nottingham, NG8",Detached,3,3,475000.0
+"Airfield Way, Nottingham, NG15",Detached,4,4,475000.0
+"Tongue Way, Ruddington, NG11",Detached,4,4,475000.0
+"The Aspen, Elizabeth Gardens, Watnall Road, Hucknall, Nottinghamshire, NG15",Detached Bungalow,3,3,475000.0
+"Ball Street, Thorneywood, Nottinghamshire, NG3 3AX",Terraced,2,2,140000.0
+"Garden Road, Hucknall, Nottingham",Detached,5,5,475000.0
+"Martin Crescent, Ruddington, NG11",Detached,4,4,475000.0
+"Rufford Avenue, Bramcote, Nottingham, NG9",Semi-Detached,5,5,475000.0
+"The Point, Mapperley Park, Nottingham",Detached Bungalow,3,3,475000.0
+"Castle Boulevard, Lenton, Nottingham",Semi-Detached,6,6,475000.0
+"Raglan Drive, Gedling, Nottinghamshire, NG4 2RF",Detached,4,4,475000.0
+"Arnot Hill Road, Arnold, Nottinghamshire, NG5 6LJ",Detached,4,4,475000.0
+"Buckland Drive, Woodborough, Nottingham",Detached,4,4,475000.0
+"Nottingham, Nottinghamshire, NG7",Detached,8,8,475000.0
+"Heather Croft, West Bridgford, Nottingham",Detached,4,4,475000.0
+"Rufford Avenue, Bramcote",Semi-Detached,5,5,475000.0
+"Albert Road, Sandiacre, Nottingham",Detached,4,4,475000.0
+"Jessops Lane, Gedling Village, Nottingham",Detached,4,4,475000.0
+"Country Meadow, Bilborough Road",Detached,4,4,475000.0
+"Charnwood Avenue, Sawley, Nottingham, NG10",Detached,3,3,475000.0
+"Black Rod Close, 35 Stapleford Lane, Toton, Nottingham, NG9",Detached,3,3,475000.0
+"Imperial Road, Beeston",End of Terrace,5,5,475000.0
+"Rutland Road, West Bridgford, Nottingham",Semi-Detached,4,4,475000.0
+"Moor Road, Nottingham, NG15",Detached,4,4,475000.0
+"Russell Drive, Wollaton, Nottinghamshire, NG8",Semi-Detached,3,3,475000.0
+"Hillingdon Avenue, Nuthall, Nottingham, NG16",Detached,6,6,470000.0
+"Russell Drive, Nottingham",Detached,4,4,470000.0
+"Laughton Avenue, West Bridgford, NG2",Detached,4,4,470000.0
+"The Close, Beeston, Nottingham, NG9",Detached,3,3,470000.0
+"Shirebrooke Close, NOTTINGHAM",Semi-Detached,4,4,240000.0
+"Bunny Lane, 
+Keyworth,
+NG12 5LP",Detached,4,4,469950.0
+"Abbey Circus, West Bridgford, Nottingham, NG2",Semi-Detached,4,4,465000.0
+"Braemar Drive, Gedling, Nottingham, NG4",Detached,5,5,465000.0
+"Hollinwell Avenue, Wollaton, NG8 1JY",Detached,3,3,465000.0
+"Trent Bridge View, Nottingham",Town House,4,4,460000.0
+"Moor Road, Papplewick",Detached,4,4,460000.0
+"Mapperley Plains,
+Mapperley,
+NG3 5RW",Detached,4,4,459995.0
+"Wollaton Paddocks, Nottingham, Nottinghamshire, NG8",Detached,4,4,459950.0
+Derby Road,Apartment,2,2,459000.0
+"Wilford Road,
+Ruddington,
+Nottingham,
+NG11",Detached,3,3,457500.0
+"Chesham Drive, Bramcote, NG9",Semi-Detached,5,5,455000.0
+"Linden Homes, 
+Melton Road,
+Edwalton,
+NG12",Detached,4,4,454995.0
+"Mapperley Plains,
+Mapperley,
+NG3 5RW",Detached,4,4,454995.0
+"Circuit Drive, Long Eaton",Detached,4,4,450000.0
+"Moor Road, Papplewick, Nottinghamshire, NG15 8EQ",Detached Bungalow,3,3,450000.0
+"Tom Blower Close, Nottingham",Detached,4,4,450000.0
+"Blackthorn Close, Gedling, Nottingham",Detached,4,4,450000.0
+"Elm Avenue, Mapperley Park",Semi-Detached,5,5,450000.0
+"Rolleston Drive, Nottingham, NG7",Detached,5,5,450000.0
+"Moor Road, Papplewick, Nottingham",Detached,3,3,450000.0
+"Old Garth Barn, The Rushes, Gotham, Nottingham",Detached,2,2,450000.0
+"Broad Valley Drive, Bestwood Village, Nottingham",Detached,4,4,450000.0
+"Gertrude Road, West Bridgford",Detached,3,3,450000.0
+"Loughborough Road, Bradmore, Nottingham",Bungalow,2,2,450000.0
+"Mellors Road, Redhill, Nottinghamshire, NG5 8HD",End of Terrace,2,2,195000.0
+"Albert Street, Gedling, Nottinghamshire, NG4 3JD",Detached,4,4,450000.0
+"Awsworth Lane, Cossall, Nottingham",Detached,4,4,450000.0
+"Bankfield Drive, Nottingham, NG9",Detached,4,4,450000.0
+"Awsworth Lane, Cossall, Nottingham",Detached,4,4,450000.0
+"Hickton Drive, Beeston, Nottinghamshire, NG9 6DD",Detached,4,4,450000.0
+"De Buseli Close, Gedling, Nottingham",Detached,5,5,450000.0
+"Gedling Grove, Nottingham, Nottinghamshire, NG7 4DU",Semi-Detached,3,3,450000.0
+"Main Road, Gedling, Nottinghamshire, NG4 3HD",Semi-Detached,4,4,450000.0
+"Lincoln Circus, The Park , Nottingham",Town House,4,4,450000.0
+"College Road, Mapperley, Nottingham, Nottinghamshire, NG3",Semi-Detached,6,6,450000.0
+"Dovecote Road, Newthorpe, Nottingham, NG16",Detached,4,4,450000.0
+"Lace Gardens, Ruddington, Nottingham",Detached,4,4,450000.0
+"Orchard Way, Sandiacre",Detached,3,3,450000.0
+"Burnor Pool, Calverton, Nottingham",Cottage,4,4,450000.0
+"Shotton Drive, Arnold, Nottinghamshire, NG5 8SW",Detached,5,5,450000.0
+"Templeoak Drive, Wollaton, Nottingham, NG8",Detached,3,3,450000.0
+"Bexleigh Gardens, Aspley",Detached,4,4,450000.0
+"Coniston Road, Beeston, Nottingham",Detached,3,3,450000.0
+"Nottingham Road, Trowell",Cottage,3,3,450000.0
+"Mansfield Lane, Calverton, Nottingham",Detached,4,4,450000.0
+"Burns Street, Nottingham, Nottinghamshire, NG7 4DT",End of Terrace,6,6,450000.0
+"(Plot 26) B Block, The Yacht Club, NG2",Apartment,2,2,450000.0
+"Wilne Close, Sawley",Detached,4,4,450000.0
+"Farnsfield Avenue, Burton Joyce, Nottingham",Detached,4,4,450000.0
+"Bowden Avenue, Bestwood Village, Nottingham",Detached,4,4,375000.0
+"Fellows Road, Beeston, Nottingham",House,3,3,450000.0
+"Trentham Drive, Nottingham",Detached,6,6,450000.0
+"Burleigh Road, West Bridgford",Semi-Detached,3,3,450000.0
+"Mapperley Road, Nottingham",Detached,3,3,450000.0
+"Derby Road, Long Eaton",House,,,450000.0
+"Braddon Avenue, Stapleford",Detached Bungalow,3,3,450000.0
+"Park Avenue, Nottingham",Semi-Detached,6,6,450000.0
+"Bramcote Road, Beeston, NG9",Bungalow,3,3,450000.0
+"Waverley Avenue, Gedling, Nottingham",Semi-Detached,4,4,450000.0
+"Holkham Avenue, Chilwell NG9 5EQ",Detached,4,4,450000.0
+"Maple Avenue, Sandiacre, Nottinghamshire, NG10",Detached,4,4,450000.0
+"South Road, West Bridgford, Nottingham",Semi-Detached,3,3,450000.0
+"Ruddington Lane, Wilford, Nottingham",Detached,5,5,450000.0
+"Mapperley Plains,
+Mapperley,
+NG3 5RW",Detached,4,4,449995.0
+"Humberston Road, Wollaton ",Detached Bungalow,2,2,449950.0
+"Wilford Road,
+Ruddington,
+Nottingham,
+NG11",Detached,4,4,445000.0
+"Moor Road, Papplewick, Nottingham",Detached Bungalow,3,3,440000.0
+"Laneside Avenue, Toton",Detached,4,4,440000.0
+"Blacksmith's Green Flawforth Lane, Ruddington, Nottingham",Detached,4,4,439995.0
+"Elliott Drive
+Gedling
+Nottingham
+NG4 2QU",Detached,4,4,438000.0
+"Acorn Avenue, 
+Giltbrook, 
+Nottinghamshire, 
+NG16 2UF",Detached,5,5,437500.0
+"Sandy Lane, Bramcote",Detached,3,3,435000.0
+"Wilford Road,
+Ruddington,
+Nottingham,
+NG11",Detached,4,4,435000.0
+"Quay Place, Trent Bridge Quays, NG2 3EW",Town House,3,3,435000.0
+"Croft Avenue, Hucknall, NOTTINGHAM",Semi-Detached,3,3,225000.0
+"Meadow Gardens, Beeston, Nottingham",Detached,4,4,435000.0
+"30a, Cranfleet Way, Long Eaton NG10 3RJ",Detached,4,4,435000.0
+"Technology Drive,
+Beeston,
+Nottingham,
+NG9 1LA",Semi-Detached,6,6,434995.0
+"Grangewood Road, Wollaton, Nottinghamshire, NG8",Detached,4,4,430000.0
+"Burnbreck Gardens, Nottingham, NG8",Detached,3,3,430000.0
+"Grace Drive, Nottingham, Nottinghamshire, NG8",Detached,4,4,430000.0
+"Wilford Lane, West Bridgford, Nottingham",Apartment,2,2,430000.0
+"Bunny Lane, 
+Keyworth,
+NG12 5LP",Detached,4,4,429950.0
+"Bunny Lane, 
+Keyworth,
+NG12 5LP",Detached,4,4,429950.0
+"Tudor Grove, The Arboretum, Nottingham",Terraced,4,4,425000.0
+"Mansfield Road, Redhill",Detached Bungalow,3,3,425000.0
+"Millbank Place, Bestwood Village, Nottinghamshire, NG6 8EF",Detached,4,4,425000.0
+"Smithy View,
+Calverton,
+Nottingham,
+NG14",Detached,4,4,425000.0
+"Sandford Road, Nottingham",Detached,3,3,425000.0
+"Eltham Road, West Bridgford, Nottingham, Nottinghamshire, NG2",Semi-Detached,4,4,425000.0
+"Northolt Drive, Nuthall, Nottingham, NG16 1QX",Detached,4,4,425000.0
+"Penmoor Close, Long Eaton NG10 3RH",Detached,4,4,425000.0
+"Elmhurst Avenue, Nottingham, NG3",Detached,4,4,425000.0
+"The Rise, Nottingham, Nottinghamshire, NG5",Detached,4,4,425000.0
+"Kimberley Road, Nuthall, Nottingham, NG16",Detached,4,4,425000.0
+"Killerton Park Drive, West Bridgford, Nottingham",Detached,3,3,425000.0
+"Oxclose Lane, Arnold, Nottingham",Detached,5,5,425000.0
+"Sandford Road, Nottingham",Detached,3,3,425000.0
+"Brampton Drive, Stapleford",Detached,4,4,425000.0
+"Mapperley Plains,
+Mapperley,
+NG3 5RW",Detached,4,4,454995.0
+"Corbiere Avenue, Watnall, Nottingham, NG16",Detached,4,4,425000.0
+"Bentinck Avenue, Tollerton, Nottingham",Semi-Detached,4,4,425000.0
+"Claremont Gardens, Nottingham",Apartment,,,425000.0
+"Long Lane, Attenborough, NG9 6BN",Bungalow,2,2,425000.0
+"Arleston Drive, Wollaton",Detached,3,3,425000.0
+"Strelley Close, Linby, Nottingham, NG15",Detached,4,4,425000.0
+"Brookside Road, Ruddington, Nottingham",Detached,3,3,425000.0
+"Court Gardens, West Bridgford, Nottinghamshire, NG2 7SN",Detached,3,3,425000.0
+"Loughborough Road, Ruddington, Nottinghamshire, NG11 6LU",Detached Bungalow,2,2,425000.0
+"Main Road, Watnall, Nottingham, NG16",Detached,4,4,425000.0
+"Gilbert Boulevard, Arnold, Nottingham",Detached,4,4,425000.0
+"Sunnindale Drive, Tollerton",Detached,2,2,425000.0
+"Hilton Road, Nottingham, Nottinghamshire, NG3",Detached,3,3,425000.0
+"Willow Lane, Gedling Village, Nottingham",Barn Conversion,3,3,425000.0
+"Ullswater Crescent, Nottingham, NG9",Detached,4,4,425000.0
+"Ringstead Close, West Bridgford, Nottinghamshire, NG2 7UJ",Detached,3,3,425000.0
+"Wensleydale Road, Long Eaton, Nottingham",Detached,3,3,425000.0
+"Olive Grove, Burton Joyce",Detached Bungalow,4,4,425000.0
+"Harewood Close, Nottingham, NG10",Detached,4,4,425000.0
+"Burnside Drive, Bramcote, Nottingham, NG9",Semi-Detached,4,4,425000.0
+"Stanhome Drive, West Bridgford, Nottinghamshire, NG2 7FU",Detached,3,3,425000.0
+"Mapledene Crescent, Nottingham, Nottinghamshire, NG8",Detached,3,3,425000.0
+"Derby Road, Long Eaton",House,7,7,425000.0
+"Arnos Grove, Nuthall",Detached,4,4,425000.0
+"Downing Street, Bulwell, Nottinghamshire, NG6 8JU",End of Terrace,2,2,160000.0
+"Mikado Road, Sawley",Detached,4,4,425000.0
+"High Leys Road, Hucknall, Nottingham",Detached Bungalow,4,4,425000.0
+"Eastdale Road, Bakersfield, Nottingham",Detached,4,4,425000.0
+"Gardeners Close, Hucknall, Nottingham, NG15",Detached,5,5,425000.0
+"Kenny Avenue, Wilford, Nottingham",Detached,4,4,425000.0
+"Walcote Drive, West Bridgford, Nottingham",Detached,3,3,425000.0
+"Magenta Way,
+Burton Joyce,
+Nottingham,
+NG14 5HH",Detached,5,5,424995.0
+"Chatsworth Close, Sandiacre",Detached,5,5,420000.0
+"Nottingham Road, Nottingham, Nottinghamshire, NG7",Semi-Detached,6,6,420000.0
+"Regeneration Way, Beeston, Nottingham, NG9",Semi-Detached,4,4,420000.0
+"Ullswater Crescent, Bramcote, Nottingham, NG9",Detached,4,4,420000.0
+"Burnbreck Gardens, Wollaton, Nottingham, NG8",Detached,3,3,419950.0
+"Technology Drive,
+Beeston,
+Nottingham,
+NG9 1LA",End of Terrace,4,4,418995.0
+"Bernard Street, Nottingham, Nottinghamshire, NG5",Terraced,5,5,415000.0
+"Trent Bridge View, Nottingham",Town House,3,3,415000.0
+"5 Raleigh Villas, Barton Quarter",Town House,3,3,415000.0
+"Smithy View,
+Calverton,
+Nottingham,
+NG14",Detached,4,4,415000.0
+"Seaford Avenue, Nottingham, Nottinghamshire, NG8",Detached,5,5,415000.0
+"Plot 4 Barton Quarter, Chilwell High Road/Queens Road West, Beeston, Nottingham NG9",Terraced,3,3,415000.0
+"Knightsbridge Drive, Nuthall",Detached,4,4,411450.0
+"Nimbus Way, Watnall, Nottingham",Detached,4,4,410000.0
+"Yacht Club Place, Nottingham",Apartment,2,2,410000.0
+"Apartment 30, Riverside",Apartment,2,2,410000.0
+"Dale Lane, Chilwell, NG9 4EA",Bungalow,4,4,410000.0
+"The Strand, Attenborough, Nottingham",Detached,4,4,750000.0
+"Moorgreen, Newthorpe, Nottingham",Detached,3,3,410000.0
+"Bridge Road, Wollaton, NG8",Town House,3,3,410000.0
+"Runswick Drive, Wollaton, Nottinghamshire, NG8",Detached,3,3,409950.0
+"Bunny Lane, 
+Keyworth,
+NG12 5LP",Detached,4,4,409950.0
+"Goodwood Road, Wollaton, Nottinghamshire, NG8",Detached,3,3,405000.0
+"Ashington Drive, Arnold, Nottingham",Detached,4,4,405000.0
+"Cleve Avenue, Toton",Detached Bungalow,3,3,405000.0
+"Smithy View,
+Calverton,
+Nottingham,
+NG14",Detached,4,4,405000.0
+"Coningsby Gardens East, Woodthorpe, Nottingham",Detached,4,4,400000.0
+"Allison Gardens, Chilwell, NG9 5DG",Detached,3,3,400000.0
+"Pates Close, Nottingham",Detached,4,4,400000.0
+"Chestnut Grove, Gedling, Nottingham",Semi-Detached,4,4,400000.0
+"Wollaton Paddocks, Nottingham, Nottinghamshire, NG8",Detached,4,4,400000.0
+"Goddard Court, Mapperley Plains, Nottingham",Link Detached House,5,5,400000.0
+"Westbury Mews, Basford, Nottinghamshire, NG5 1EN",Detached,4,4,400000.0
+"Emerys Road, Gedling, Nottingham",Detached Bungalow,5,5,400000.0
+"Sandringham Drive, Bramcote, Nottingham",Detached,4,4,400000.0
+"Westbury Mews, Basford",Detached,4,4,400000.0
+"Nottingham Road, Toton",Semi-Detached,4,4,400000.0
+"Dale Road, Kimberley, Nottingham, NG16",Detached,4,4,400000.0
+"Pygall  Avenue, Gotham, Nottingham",Detached,3,3,400000.0
+"25 Westbury Mews, Nottingham, NG5 1EN",Detached,4,4,400000.0
+"Wensley Road, Woodthorpe, Nottinghamshire, NG5 4JU",Detached,3,3,400000.0
+"Oakfield Road, Wollaton, Nottingham, Nottinghamshire, NG8",Detached,3,3,400000.0
+"Thistledown Road, Clifton, Nottinghamshire, NG11 9EE",Semi-Detached,3,3,200000.0
+"Greenland Crescent, Chilwell, Nottinghamshire, NG9 5LD",Detached,5,5,400000.0
+"Greendale Gardens, Nottingham, Nottinghamshire, NG8",Semi-Detached,3,3,400000.0
+"Oxford Road, West Bridgford, Nottinghamshire, NG2 5JQ",Semi-Detached,3,3,400000.0
+"Forester Road, Thorneywood, Nottinghamshire, NG3 6LP",Detached,3,3,400000.0
+"Langley Close, Bestwood Village, NOTTINGHAM",Detached,4,4,400000.0
+"Enfield Street, Beeston, NG9 1DL",Semi-Detached,3,3,400000.0
+"Main Street, Linby, Nottinghamshire, NG15 8AE",Cottage,2,2,400000.0
+"Trowell Road, Wollaton, NG8",Detached,4,4,400000.0
+"The Settle, Sandlands Park, Hucknall",Detached,4,4,400000.0
+"Moorsholm Drive, Wollaton, Nottinghamshire, NG8 2EF",Detached Bungalow,3,3,400000.0
+"South View Road, Nottingham",Detached,4,4,400000.0
+"Westbury Mews, Nottingham, NG5",Detached,4,4,400000.0
+"Charlotte Grove, Beeston, Nottinghamshire, NG9 3HU",Detached,4,4,400000.0
+"Mansfield Road, Papplewick, Nottinghamshire, NG15 8FJ",Detached,3,3,400000.0
+"The Plantations, Long Eaton, Derbyshire, NG10 3QG",Detached,4,4,400000.0
+"Westerlands, Stapleford, Nottingham",Detached Bungalow,3,3,400000.0
+"Regina Drive, Nottingham, NG8",Detached,4,4,400000.0
+"Roxburgh Close, Arnold, Nottinghamshire, NG5 8RN",Detached,4,4,400000.0
+"Parkdale Road, Bakersfield, Nottingham",Detached,4,4,400000.0
+"Kent Road, Mapperley, Nottingham",Detached,3,3,400000.0
+"Belton Drive, West Bridgford, Nottingham",Detached,3,3,400000.0
+"Discovery Drive, Aspley, Nottinghamshire, NG8 3QG",Detached,4,4,400000.0
+"Larkspur Drive, Ruddington, Nottingham",Detached,3,3,400000.0
+"Elliott Drive
+Gedling
+Nottingham
+NG4 2QU",Detached,4,4,400000.0
+"Yacht Club Place, Nottingham",Apartment,2,2,298000.0
+"Standard Hill, Nottingham",Penthouse,2,2,400000.0
+"Ashington Drive, Arnold",Detached,4,4,400000.0
+"Blackhill Drive, Carlton, Nottingham",Semi-Detached,3,3,400000.0
+"Eastdale Road, Bakersfield, Nottingham",Detached,4,4,400000.0
+"Littlegreen Road, Woodthorpe, Nottinghamshire, NG5 4LP",Detached,4,4,400000.0
+"Loughborough Road, West Bridgford, Nottingham",Detached,3,3,400000.0
+"Abbey Road, West Bridgford, Nottingham",Semi-Detached,3,3,400000.0
+"Aspley Park Drive, Aspley",Detached,3,3,400000.0
+"Goddard Court, Mapperley Plains, Nottinghamshire, NG3 5RP",Detached,4,4,400000.0
+"Clumber Road East, The Park, Nottingham",Apartment,2,2,399995.0
+"Plot 311 The Settle V1 at Sandlands Park, Nottingham, NG15 6WQ ",Detached,4,4,399995.0
+"Lyndale Road, Nottingham, NG9",Detached,3,3,399950.0
+"Exchange Road, West Bridgford, NG2 6DD",Terraced,3,3,399950.0
+"Lune Close, Attenborough",Link Detached House,3,3,399950.0
+"Heather Rise, Beeston, Nottingham, NG9",Bungalow,2,2,399950.0
+"Erdington Way, Toton, Nottingham",Detached,4,4,399950.0
+"Biggart Close, Beeston, Nottingham",House,3,3,399950.0
+"Normanby Road, Nottingham, NG8",Detached,3,3,397500.0
+"Victoria Road, Sherwood",Detached Bungalow,3,3,395000.0
+"Hillside Road, Bramcote, Nottingham",Detached Bungalow,3,3,395000.0
+"Trenton Drive, Long Eaton, Nottingham",Detached,4,4,395000.0
+"Loughborough Road,
+Ruddington,
+Nottingham,
+NG11",Detached,3,3,395000.0
+"Burnside Drive, Bramcote, Nottinghamshire, NG9 3EE",Detached,3,3,395000.0
+"Georges Lane, Calverton, Nottingham",Detached,3,3,395000.0
+"James Drive, Calverton, Nottinghamshire,NG14 6RJ",Town House,3,3,210000.0
+"Elliott Drive
+Gedling
+Nottingham
+NG4 2QU",Detached,4,4,395000.0
+"Charles Avenue, Chilwell, NG9 5ED",Semi-Detached,5,5,395000.0
+"Gwenbrook Avenue, Beeston, Nottingham",Detached Bungalow,2,2,395000.0
+"Byron Road, West Bridgford, Nottingham, NG2",Terraced,3,3,395000.0
+"Smithy View,
+Calverton,
+Nottingham,
+NG14",Detached,4,4,395000.0
+"Crosby Road, West Bridgford, Nottingham, NG2",Semi-Detached,3,3,395000.0
+"Elliott Drive, Gedling",Detached,4,4,395000.0
+"Nottingham Road, Burton Joyce, Nottinghamshire, NG14 5BD",Detached Bungalow,4,4,395000.0
+"Hollinwell Avenue, Wollaton, Nottingham, NG8",Detached,3,3,395000.0
+"Ringstead Close, West Bridgford, Nottingham",Detached,3,3,395000.0
+"Westbury Mews, Nottingham",Detached,4,4,395000.0
+"Elmtree Road, Calverton",Detached,4,4,395000.0
+"Blatherwick Close, Hucknall, Nottingham, NG15",Bungalow,3,3,395000.0
+"Linden Homes, 
+Melton Road,
+Edwalton,
+NG12",Semi-Detached,3,3,394995.0
+"Manor Park, Ruddington, Nottingham",Retirement Property,2,2,391950.0
+Stanton Road,Semi-Detached,3,3,390000.0
+"Heather Close, Newthorpe, Nottingham, Nottinghamshire, NG16",Detached,5,5,390000.0
+"Loughborough Road,
+Ruddington,
+Nottingham,
+NG11",Semi-Detached,3,3,390000.0
+"Acorn Avenue, 
+Giltbrook, 
+Nottinghamshire, 
+NG16 2UF",Detached,4,4,390000.0
+"Lancaster Way, Nottingham",Detached,4,4,390000.0
+Johnson Road,Semi-Detached,,,390000.0
+"Stanton Road, Sandiacre, Nottingham, Derbyshire, NG10",Semi-Detached,3,3,390000.0
+"Loughborough Road,
+Ruddington,
+Nottingham,
+NG11",Semi-Detached,3,3,390000.0
+"Howbeck Road, Arnold, Nottingham",Detached,4,4,390000.0
+"Yacht Club Place, Trent Lane",Apartment,2,2,344000.0
+"Milner Road, Nottingham, Nottinghamshire, NG5",Semi-Detached,4,4,390000.0
+"Hobben Crescent, Hucknall, Nottinghamshire, NG15 8HN",Detached,6,6,390000.0
+"Pilkington Road, Mapperley, NG3",Detached,4,4,390000.0
+"Cavendish Crescent North, The Park, Nottingham",Apartment,2,2,389000.0
+"Massey Close, Burton Joyce, Nottingham",Bungalow,2,2,385000.0
+"Papplewick Lane,
+Linby,
+Nottingham,
+NG15 8EJ",Detached,4,4,385000.0
+"Wichnor Close, Clifton Grove, Nottingham",Detached,3,3,385000.0
+"Hillview Road, Toton, Nottingham, NG9",Bungalow,3,3,385000.0
+"Pitch Close, Carlton, Nottingham, NG4 1SL",Detached,5,5,385000.0
+"Papplewick Lane,
+Linby,
+Nottingham,
+NG15 8EJ",Detached,4,4,385000.0
+"Trent Bridge View, Nottingham",Apartment,2,2,385000.0
+"Off Moor Road,
+Bestwood Village
+Nottingham,
+NG6 8ZQ",Detached,4,4,385000.0
+"Sunnindale Drive, Tollerton, Nottingham",Chalet,3,3,385000.0
+"Slalom Run, Nottingham",Detached,5,5,385000.0
+"Melton Road,
+West Bridgford,
+Nottingham,
+NG12",Semi-Detached,3,3,384995.0
+"Melton Road,
+West Bridgford,
+Nottingham,
+NG12",Semi-Detached,3,3,384995.0
+"Manor Park, Ruddington, Nottingham",Retirement Property,2,2,384900.0
+"Park Road,
+Calverton,
+Nottingham,
+NG14 6BP",Detached,5,5,381995.0
+"Harvest Close, Beeston, Nottingham",Semi-Detached,4,4,380000.0
+"Lythe Close, Silverdale, Nottingham",Detached,4,4,380000.0
+"Breedon Street, Long Eaton, Nottinghamshire, NG10 4EW",Detached,4,4,380000.0
+"Franklyn Gardens, Nottingham",Detached,4,4,380000.0
+"Sidney Street, Kimberley, Nottingham",Detached,3,3,380000.0
+"Wilford Road, Ruddington, Nottingham",Cottage,3,3,380000.0
+"Flamstead Avenue, Lambley",Semi-Detached,2,2,260000.0
+"Ullswater Crescent, Bramcote",Link Detached House,3,3,380000.0
+"Harvest Close, Beeston, Nottingham, NG9",Semi-Detached,4,4,380000.0
+"Hucknall,
+Nottingham,
+NG15",Detached,4,4,380000.0
+"Dorset Gardens, West Bridgford, Nottingham",Detached,3,3,380000.0
+"Bressingham Drive, West Bridgford, Nottingham",Detached,3,3,379950.0
+"Bressingham Drive, West Bridgford, Nottingham",Detached,3,3,379950.0
+"Technology Drive,
+Beeston,
+Nottingham,
+NG9 1LA",Detached,3,3,377995.0
+"Stocks Road, Kimberley, Nottingham, Nottinghamshire, NG16",Detached,3,3,375000.0
+"Kimberley Road, Nuthall, Nottingham, NG16",Detached Bungalow,3,3,375000.0
+"Catfoot Lane, Lambley, Nottingham",Semi-Detached,4,4,375000.0
+"Off Moor Road,
+Bestwood Village
+Nottingham,
+NG6 8ZQ",Detached,3,3,375000.0
+"Charlbury Road, Wollaton",Detached,4,4,375000.0
+"Longue Drive, Calverton, Nottingham",Detached,4,4,375000.0
+"Humber Road, Beeston",Semi-Detached,3,3,375000.0
+"Hills Road, Woodthorpe, Nottingham",Detached,3,3,375000.0
+"Covert Close, Burton Joyce, Nottingham",Detached Bungalow,3,3,375000.0
+"Dawlish Close, Hucknall, Nottingham, NG15",Detached,4,4,375000.0
+"Russell Avenue, Wollaton",Detached,3,3,375000.0
+"Nottingham Road, Kimberley, Nottingham, NG16",Detached,3,3,375000.0
+"Springfield Drive, Nottingham, NG6",Detached,4,4,375000.0
+"Bowden Avenue, Bestwood Village, Nottingham",Detached,4,4,375000.0
+"Hollydale Road, Bakersfield, NG3",Detached,5,5,375000.0
+"Seaford Avenue, Nottingham, Nottinghamshire, NG8",Detached,3,3,375000.0
+"Walsingham Road, Woodthorpe, Nottingham",Detached,4,4,375000.0
+"Woodside Road, Beeston, Nottingham, NG9",End of Terrace,3,3,235000.0
+"Keepers Close, Bestwood Village, Nottingham, NG6",Bungalow,3,3,375000.0
+"Watnall Road, Hucknall NG15 6EY",Detached,3,3,375000.0
+"Grange Cottages, Papplewick, Nottingham, NG15",Terraced,3,3,375000.0
+"Brechin Close, Arnold",Detached,4,4,375000.0
+"Ashington Drive, Arnold, Nottingham",Detached,4,4,375000.0
+"Russell Avenue, Wollaton",Detached,3,3,375000.0
+"Ranmoor Road, Gedling, Nottingham",Detached,4,4,375000.0
+"Corbett Chase, Chase Farm, Gedling, Nottingham, NG4",Detached,4,4,375000.0
+"Bromfield Close, Bakersfield, Nottingham",Detached,5,5,375000.0
+"Greenwood Road, Bakersfield, Nottingham",Detached Bungalow,5,5,375000.0
+"Regent Street, Nottingham, NG7",Semi-Detached,6,6,375000.0
+"Ayscough Avenue, Nuthall, Nottingham, NG16",Detached,4,4,375000.0
+"Trafford Gardens, Nottingham, NG8",Detached,4,4,375000.0
+"Loughborough Road, West Bridgford, Nottingham",Detached,3,3,375000.0
+"Trafford Gardens, NOTTINGHAM",Detached,4,4,375000.0
+"Pentland Gardens, Long Eaton NG10 4FX",Detached,4,4,375000.0
+"Karen Gardens, Chilwell NG9 5DX",Detached,3,3,375000.0
+"Derby Road, Nottingham",Apartment,2,2,375000.0
+"Norfolk Close, Hucknall, Nottinghamshire, NG15 6RN",Detached Bungalow,4,4,375000.0
+"Farm Road, Chilwell, Nottingham",Semi-Detached,3,3,375000.0
+"Bowden Avenue, Bestwood Village, Nottingham, NG6",House,4,4,375000.0
+"Manchester Street, Long Eaton",Detached,3,3,375000.0
+"Main Road, Gedling, Nottingham",Bungalow,3,3,375000.0
+"Watnall Road, Nottingham, NG15",Semi-Detached,4,4,375000.0
+"Percival Road, Sherwood, Nottinghamshire, NG5 2FA",Terraced,3,3,250000.0
+"Ebers Grove, Nottingham",Terraced,3,3,375000.0
+"Stapleford Road, Trowell",Detached,4,4,375000.0
+"Derby Road, Bramcote, NG9 3JA",Detached,3,3,370000.0
+"Romney Avenue, Wollaton, Nottinghamshire, NG8",Detached,4,4,370000.0
+"Stonebridge Way, Calverton, Nottinghamshire, NG14 6RZ",Detached,4,4,370000.0
+"Runswick Drive, Nottingham, NG8",Detached,3,3,370000.0
+"Seymour Road, West Bridgford, Nottingham",Semi-Detached,3,3,370000.0
+"Apartment 6, Riverside",Apartment,3,3,370000.0
+"Perkins Way, Beeston",Detached,3,3,370000.0
+"Orpean Way, Toton",Detached,3,3,370000.0
+"Crown Street, Nottingham",Detached,4,4,370000.0
+"Perkins Way, Beeston, Nottingham",Detached,3,3,370000.0
+"Linden Homes, 
+Melton Road,
+Edwalton,
+NG12",Semi-Detached,3,3,369995.0
+"Mapperley Plains,
+Mapperley,
+NG3 5RW",Detached,3,3,369995.0
+"Hope Street, Beeston, NG9",Semi-Detached,3,3,365000.0
+"Burton Avenue, Carlton, Nottingham",Chalet,4,4,365000.0
+"Loughborough Road,
+Ruddington,
+Nottingham,
+NG11",Detached,3,3,365000.0
+"Surfleet Close, Nottingham",Bungalow,3,3,365000.0
+"Ranelagh Grove, Nottingham, NG8",Detached,3,3,365000.0
+"Ashdale Gardens, Burton Joyce",Detached,3,3,365000.0
+"Barden Road, Woodthorpe, Nottingham",Detached,5,5,365000.0
+"Ashdale Gardens, Burton Joyce",Detached,3,3,365000.0
+"Kingswood Road, Wollaton, Nottinghamshire, NG8",Semi-Detached,3,3,365000.0
+"Pimlico Avenue, Bramcote, Nottingham, NG9",Bungalow,3,3,365000.0
+"Swindell Close, Mapperley, Nottingham",Apartment,2,2,160000.0
+"Farm Road, Chilwell, Nottingham",House,3,3,365000.0
+"Grosvenor Avenue, Sawley",Detached,4,4,365000.0
+"Patterdale Close, Gamston, Nottingham, NG2",Detached,3,3,365000.0
+"Hoff Close, Long Eaton, Nottingham",Semi-Detached,4,4,364950.0
+"Flatts Lane
+Calverton
+Nottingham
+NG14 6PA",Detached,4,4,364950.0
+"Technology Drive,
+Beeston,
+Nottingham,
+NG9 1LA",Semi-Detached,3,3,362995.0
+"Pimlico Avenue, Bramcote, Nottingham",Detached Bungalow,3,3,360000.0
+"Abbey Road, West Bridgford",Semi-Detached,3,3,360000.0
+"Elliott Drive
+Gedling
+Nottingham
+NG4 2QU",Detached,3,3,360000.0
+"Milton Crescent, Attenborough, NG9 6BE",Bungalow,2,2,360000.0
+"Harvest Close, Beeston, Nottingham",Semi-Detached,4,4,360000.0
+"Trent Lane, Nottingham",Town House,4,4,360000.0
+"Trowell Road, Nottingham, Nottinghamshire",Detached,4,4,360000.0
+"Beeches Rise, Mapperley Rise, Nottingham, NG3 5GE",Town House,4,4,360000.0
+"Multimode Close, Beeston, Nottingham, NG9",Semi-Detached,3,3,360000.0
+"Crown Street, Nottingham",Detached,4,4,360000.0
+"Apartment 11, Riverside",Apartment,2,2,360000.0
+"Compton Road, Sherwood, NG5",Detached Bungalow,3,3,360000.0
+"Sandy Lane, Hucknall, Nottinghamshire, NG15 7GQ",Detached,3,3,360000.0
+"Trent Lane, Nottingham",Town House,3,3,360000.0
+"Trent Lane, Nottingham",Town House,4,4,360000.0
+"Papplewick Lane,
+Linby,
+Nottingham,
+NG15 8EJ",Detached,4,4,360000.0
+"Mansfield Road, Nottingham",Semi-Detached,3,3,360000.0
+"Devonshire Road, Sherwood, Nottinghamshire, NG5 2EW",Detached,3,3,360000.0
+"Scotland Road, Basford, Nottinghamshire, NG5 1JU",Terraced,3,3,170000.0
+"Tonbridge Mount, Nottingham, NG8",Link Detached House,3,3,359950.0
+The Park Octagon Western Terrace,Apartment,2,2,359950.0
+"Flatts Lane
+Calverton
+Nottingham
+NG14 6PA",Detached,4,4,357500.0
+"Magdala Road, Mapperley Park , Nottingham",Semi-Detached,3,3,357000.0
+"Acorn Avenue, 
+Giltbrook, 
+Nottinghamshire, 
+NG16 2UF",Detached,4,4,355000.0
+"Orston Drive, Nottingham, NG8",Semi-Detached Bungalow,4,4,355000.0
+"Sloan Drive, Bramcote, Bramcote, NG9",Semi-Detached,4,4,355000.0
+"Banbury Avenue, Toton",Detached,3,3,354950.0
+"Elliott Drive
+Gedling
+Nottingham
+NG4 2QU",Detached,4,4,351000.0
+"Rowland Avenue, Mapperley, Nottingham, NG3",Bungalow,2,2,350000.0
+"Senator Close, Hucknall, Nottinghamshire, NG15 8GH",Detached,4,4,350000.0
+"Byron Close, Colwick, Nottingham",Detached,4,4,350000.0
+"Nottingham Road, Woodborough, Nottinghamshire, NG14 6EH",Detached Bungalow,5,5,350000.0
+"Main Street, Newthorpe, Nottingham, NG16",End of Terrace,4,4,350000.0
+"Brendon Road, Nottingham",Detached,3,3,350000.0
+"Woodbank Drive, Wollaton, NG8 2QW",Semi-Detached,3,3,350000.0
+"Roslyn Avenue, Gedling, Nottinghamshire, NG4 3NJ",Detached,3,3,350000.0
+"Linden Grove, Gedling, Nottingham",Detached,3,3,350000.0
+"Kingswood Road, Nottingham, NG8",Semi-Detached,3,3,350000.0
+"Mapperley Orchard, Arnold, Nottingham",Detached,4,4,350000.0
+"Springfield Avenue, Long Eaton, Nottingham, Derbyshire, NG10",Detached,3,3,350000.0
+"Middle Avenue, Carlton, Nottinghamshire, NG4 1PG",Detached,4,4,350000.0
+"Woodborough Road, Mapperley, Nottingham",Semi-Detached,4,4,350000.0
+"Manvers Road, West Bridgford, Nottinghamshire, NG2 6DJ",Semi-Detached,3,3,350000.0
+"Woodside Road, Beeston, Nottingham, NG9",End of Terrace,3,3,235000.0
+"Windsor Close, Nottingham, NG9",Detached,3,3,350000.0
+"Russell Avenue, Wollaton, Nottinghamshire, NG8 2BL",Semi-Detached,3,3,350000.0
+"Broadlands, Nottingham, NG10",Detached,4,4,350000.0
+"Fairview Road, Woodthorpe, Nottingham",Semi-Detached,3,3,350000.0
+"Hardwick Grove, West Bridgford, Nottingham",Semi-Detached,4,4,350000.0
+"Ashley Grove, Hucknall, Nottinghamshire, NG15",Detached,4,4,350000.0
+"Marshall Drive, Ruddington, Nottinghamshire, NG11 6AJ",Semi-Detached,4,4,350000.0
+"Rowan Close, Calverton, Nottingham",Detached,3,3,350000.0
+"Seaford Avenue, Wollaton, Nottingham, NG8",Detached,3,3,350000.0
+"Bradgate Close, Sandiacre, Nottingham, NG10",Detached,4,4,350000.0
+"Coronation Road, Mapperley, Nottinghamshire, NG3 5JS",Detached,3,3,350000.0
+"Arnold Crescent, Nottingham, NG10",Semi-Detached,3,3,350000.0
+"Violet Road, Carlton, Nottingham",Detached,5,5,350000.0
+"Ogle Street, Hucknall, Nottinghamshire, NG15 7FR",Detached,3,3,350000.0
+"Haddon Crescent, Chilwell, Nottingham",House,3,3,350000.0
+"Beeches Rise, Mapperley Rise, Nottingham, NG3 5GE",Town House,4,4,350000.0
+"Orston Drive, Wollaton Park, Nottinghamshire, NG8 1AS",Cottage,3,3,350000.0
+"Lucknow Avenue, Mapperley Park, Nottinghamshire, NG3 5AZ",Apartment,3,3,350000.0
+"Crummock Close, Bramcote",Detached,3,3,350000.0
+"Moss Rise, Nottingham",Detached Bungalow,4,4,350000.0
+"Forest Road East, NOTTINGHAM",Semi-Detached,5,5,350000.0
+"Gresham Gardens, West Bridgford",Detached Bungalow,3,3,350000.0
+"Summer Drive, West Bridgford, Nottingham",Semi-Detached,3,3,350000.0
+"Pompeia Close, Hucknall, Nottinghamshire, NG15 8JF",Detached,4,4,350000.0
+"Lady Bay Road, West Bridgford, NG2",Flat,2,2,190000.0
+"Fleam Road, Nottingham",Detached,4,4,350000.0
+"Fleam Road, Clifton Grove, Nottinghamshire, NG11 8PL",Detached,4,4,350000.0
+"Derby Road, Beeston, Nottingham",Semi-Detached,3,3,350000.0
+"Jermyn Drive, Arnold, Nottinghamshire, NG5 9PN",Detached,5,5,350000.0
+"Oakdale Road, Carlton, NG4",Detached Bungalow,3,3,350000.0
+"Brooklands Road, Bakersfield, Nottingham",Detached,3,3,350000.0
+Derby Road,Detached,2,2,350000.0
+"Gregory Boulevard, Nottingham, NG7",End of Terrace,4,4,350000.0
+"Doveridge Avenue, Carlton, Nottinghamshire, NG4 3GR",Detached Bungalow,3,3,350000.0
+"Metcalf Road, Newthorpe, Nottingham, NG16",Detached,4,4,350000.0
+"Cedarland Crescent, Nuthall, Nottingham, NG16 1AH",Detached,4,4,350000.0
+"Neville Road, Calverton, NG14",Detached,4,4,350000.0
+"Aaron Close, Wilford, Nottingham",End of Terrace,5,5,350000.0
+"Elm Tree Avenue, West Bridgford, Nottinghamshire, NG2 7JU",Detached Bungalow,2,2,350000.0
+"St. Marys Gate, Nottingham",Apartment,2,2,350000.0
+"Bradgate Close, Sandiacre, Nottingham",Detached,4,4,350000.0
+"Prospect Road, Carlton, Nottinghamshire, NG4 1LX",Detached,3,3,350000.0
+"Hartland Drive, Mapperley, Nottinghamshire, NG3 5UZ",Detached,3,3,350000.0
+"Costock Avenue, Sherwood, Nottinghamshire, NG5 3AX",Detached,3,3,350000.0
+"Spring Lane, Lambley, Nottingham",Semi-Detached,3,3,350000.0
+"Cedar Close, Sandiacre, Nottingham, NG10",Detached,4,4,350000.0
+"Headingley Gardens, Aspley",Detached,4,4,350000.0
+"Holgate Road, The Meadows",Semi-Detached,7,7,350000.0
+"Hillsford Close, NG8 1JH",Detached,4,4,350000.0
+"Landmere Gardens, Mapperley, Nottinghamshire, NG3 3BG",End of Terrace,2,2,150000.0
+"Priory Avenue, Tollerton, Nottingham",Detached,3,3,350000.0
+"2 South Parade, Nottingham, NG1",Apartment,2,2,350000.0
+"Wood Lane, Nottingham",Detached,4,4,350000.0
+"Hilltop Rise, Newthorpe, Nottingham, NG16",Detached,5,5,350000.0
+"Papplewick Lane, Hucknall, Nottinghamshire, NG15 8EF",Semi-Detached,3,3,350000.0
+"Frances Grove, Hucknall, Nottinghamshire, NG15 8DD",Detached,5,5,350000.0
+"Trent Lane, Nottingham",Town House,3,3,350000.0
+"Bacon Close, Giltbrook, Nottingham",Detached,5,5,350000.0
+"Springfield Avenue, Sandiacre",Detached Bungalow,2,2,350000.0
+"Enderleigh Mews, Nottingham, Nottinghamshire, NG3",Mews,4,4,350000.0
+"Hall Farm Close, Tollerton, Nottingham",Detached Bungalow,3,3,350000.0
+"Heckington Drive, Wollaton, Nottingham, NG8",Detached,3,3,350000.0
+"Bladon Road, Ruddington, Nottingham",Semi-Detached,3,3,350000.0
+"Brookhill Street, Nottingham",House,3,3,350000.0
+"Plains Farm Close, Mapperley Plains, Nottingham",Detached Bungalow,3,3,350000.0
+"Thorneywood Rise, Thorneywood, Nottingham",Detached,4,4,350000.0
+"Orchard Close, Burton Joyce,",Detached Bungalow,2,2,350000.0
+"Waltham Close, West Bridgford, Nottingham",Link Detached House,4,4,350000.0
+"Hickton Drive, Chilwell, Beeston, Nottingham, NG9",Detached,3,3,350000.0
+"Crown Street, Hucknall, Nottingham, NG15",Detached,4,4,350000.0
+"Papplewick Lane, Nottingham",Semi-Detached,4,4,350000.0
+"Grafton Avenue, Woodthorpe, Nottingham",Detached Bungalow,2,2,350000.0
+"Foxhill Road, Carlton, Nottinghamshire,NG4 1PZ",Detached,4,4,350000.0
+"Shirley Street, Sawley",Detached Bungalow,2,2,349995.0
+"Arnold Lane, Gedling, Nottingham",Detached Bungalow,2,2,220000.0
+"The Birkwith, Sandlands Park, Hucknall",Detached,4,4,349995.0
+"Arnold Lane, 
+Gedling, 
+Nottingham, 
+NG4 4HF",House,4,4,349995.0
+"Plot 314 The Birkwith at Sandlands Park, Nottingham, NG15 6WQ ",Detached,4,4,349995.0
+"Bridge Street, Long Eaton, Nottingham",Detached,4,4,349950.0
+"Greenland Crescent, Chilwell, Nottingham",Detached,3,3,349950.0
+"Greenland Crescent, Beeston, Nottingham, NG9",Detached,3,3,349950.0
+"Fletcher Road, Beeston, Nottingham. NG9 2EL",End of Terrace,4,4,349950.0
+"The Hollows, Nottingham, NG10",Detached Bungalow,3,3,349950.0
+"Hucknall,
+Nottingham,
+NG15",Detached,4,4,349950.0
+"Russell Crescent, Nottingham, Nottinghamshire, NG8",Detached,3,3,349950.0
+"Bunny Lane, 
+Keyworth,
+NG12 5LP",Detached,3,3,349950.0
+"Elliott Drive, Gedling",Detached,4,4,349000.0
+"The Tower House, Park Row, Nottingham, NG1 6GR",Apartment,2,2,345000.0
+"Trent Bridge View, Nottingham",Apartment,2,2,345000.0
+"Benington Drive, Nottingham, NG8",Bungalow,2,2,345000.0
+"Yacht Club Place, Trent Lane",Apartment,2,2,344000.0
+"Apt 56 (Plot 14) C Block, The Yacht Club, NG2",Apartment,2,2,343000.0
+"Park Road,
+Calverton,
+Nottingham,
+NG14 6BP",Detached,5,5,341995.0
+"Portland Road, Toton, Nottingham, Nottinghamshire, NG9",Semi-Detached,4,4,340000.0
+"Wharton Crescent, Nottingham, NG9",Town House,3,3,340000.0
+"Hunter Drive, Hucknall, Nottinghamshire, NG15 6WL",Detached,4,4,340000.0
+"Welbeck Avenue, Gedling, Nottingham",Semi-Detached,4,4,340000.0
+"Trent Lane, Nottingham",Town House,3,3,340000.0
+"Ruskin Avenue, Long Eaton",Detached,3,3,340000.0
+"Graylands Road, Bilborough, Nottinghamshire, NG8 4FE",Detached Bungalow,2,2,180000.0
+"Cantelupe Gardens, Nottingham, Nottinghamshire, NG16",Detached Bungalow,4,4,340000.0
+"St. Mawes Avenue, Wilford, Nottingham",Detached,3,3,340000.0
+"Lovelace Walk, Hucknall, Nottinghamshire, NG15 7ST",Detached,4,4,340000.0
+"Eltham Road, West Bridgford, Nottingham",Semi-Detached,3,3,340000.0
+"Moody Close, Chilwell",Semi-Detached,3,3,340000.0
+"Grouville Drive, Woodthorpe, Nottinghamshire, NG5 4NN",Detached,4,4,340000.0
+"Clumber Avenue, Beeston, Nottingham",Semi-Detached,3,3,340000.0
+"Nursery Avenue, Sandiacre",Detached,3,3,340000.0
+"Station Road, Long Eaton",Not Specified,,,340000.0
+"Toston Drive, Wollaton, Nottingham",Bungalow,4,4,340000.0
+"Manvers Road, West Bridgford, Nottingham, NG2",Semi-Detached,3,3,340000.0
+"Carlton Hill, Carlton, Nottingham, Nottinghamshire, NG4",Detached,4,4,340000.0
+"Eltham Road, West Bridgford, Nottingham",Semi-Detached,3,3,340000.0
+"Watnall Road,
+Hucknall,
+Nottingham,
+NG15 6EU",Detached,4,4,339995.0
+"Lancaster Way, Nottingham",Detached,5,5,339950.0
+"Loughborough Road,
+Ruddington,
+Nottingham,
+NG11",Detached,3,3,339000.0
+"Reedman Road, Sawley",Detached,3,3,338000.0
+"(Apt 21) (Plot 8) B Block, The Yacht Club, NG2",Apartment,2,2,338000.0
+"Maple Avenue, Sandiacre, NG10",Semi-Detached,4,4,335000.0
+"Lutterell Way, Nottingham, NG2",Semi-Detached,3,3,335000.0
+"Redland Close, Beeston, Nottingham, Nottinghamshire, NG9",Bungalow,2,2,335000.0
+"Fleam Road, Clifton Grove",Detached,4,4,335000.0
+"Derby Road, Beeston, Nottingham, NG9",Detached,3,3,335000.0
+"Village Road, Clifton Village, Nottingham",Semi-Detached,3,3,335000.0
+"Thistledown Road, Clifton, Nottinghamshire, NG11 9EE",Semi-Detached,3,3,200000.0
+"Manor House Close, Nottingham, NG11",Terraced,3,3,335000.0
+"Linden Homes, 
+Melton Road,
+Edwalton,
+NG12",Semi-Detached,2,2,334995.0
+"Bunny Lane, 
+Keyworth,
+NG12 5LP",Detached,3,3,334950.0
+"(Plot 10) B Block, The Yacht Club, NG2",Apartment,2,2,333000.0
+"Linden Homes, 
+Melton Road,
+Edwalton,
+NG12",Semi-Detached,2,2,331995.0
+"Ladybridge Close, Attenborough, Nottingham",Detached Bungalow,3,3,330000.0
+"156 Lenton Boulevard, Nottingham, Nottinghamshire, NG7 2BZ",Terraced,4,4,330000.0
+"Eltham Road, West Bridgford, NG2 5JU",Semi-Detached,3,3,330000.0
+"Spinney Road, Long Eaton",Semi-Detached,4,4,330000.0
+"Trentham Gardens, Aspley",Detached,3,3,330000.0
+"Larwood Grove, Sherwood Dales, Nottinghamshire, NG5 3JD",Detached,4,4,330000.0
+"Ladybridge Close, Attenborough, NG9 6BS",Bungalow,3,3,330000.0
+"Rutland Avenue, Toton, Nottingham",Detached,3,3,330000.0
+"Holden Gardens, Stapleford",Detached,3,3,330000.0
+"David Grove, Beeston, Nottingham, NG9",Detached,3,3,330000.0
+"Yacht Club Place, Trent Lane, Nottingham",Apartment,2,2,330000.0
+"Beeches Rise, Mapperley Rise, Nottingham, NG3 5GE",Town House,4,4,330000.0
+"Weston Crescent, Sawley",Detached,3,3,330000.0
+"River View Court, Wilford Lane, West Bridgford, Nottingham",Apartment,1,1,330000.0
+"Shelton Avenue, Hucknall, Nottingham, Nottinghamshire, NG15",Bungalow,2,2,330000.0
+"Spinney Close, West Bridgford, Nottingham",Semi-Detached,3,3,330000.0
+"Lorimer Avenue, Gedling, Nottingham",Detached,4,4,330000.0
+"Tamworth Road, Sawley",Detached,3,3,329995.0
+"Tennyson Avenue, Gedling",House,,,329950.0
+"Gilbert Boulevard, Arnold, Nottingham",Detached,4,4,425000.0
+"Bunny Lane, 
+Keyworth,
+NG12 5LP",Detached,3,3,329950.0
+"Ebers Grove, Nottingham",End of Terrace,3,3,329950.0
+"Ashchurch Drive, Wollaton, Nottinghamshire, NG8",Semi-Detached,3,3,329950.0
+"Chilton Drive, Nottingham, Nottinghamshire, NG16",Detached Bungalow,2,2,327500.0
+"Yacht Club Place, Trent Lane, Nottingham",Apartment,2,2,326000.0
+"Watnall Road,
+Hucknall,
+Nottingham,
+NG15 6EU",Detached,4,4,325995.0
+"Jumelles Drive, Calverton, Nottinghamshire",Detached,3,3,325000.0
+"Stewart Way, Annesley, Nottinghamshire, NG15 0EH",Detached,4,4,325000.0
+"Park Wharf, Nottingham",House,4,4,325000.0
+"Graylands Road, Nottingham, Nottinghamshire, NG8",Bungalow,2,2,325000.0
+"Main Street, Newthorpe, Nottingham, NG16",Bungalow,2,2,325000.0
+"Brooklands Road, Carlton, Nottingham",Detached,3,3,325000.0
+"Lime Grove, Long Eaton, Derbyshire, NG10 4LD",Semi-Detached,4,4,325000.0
+"Bilborough Road, Nottingham, NG8",Semi-Detached,2,2,325000.0
+"Nottingham Road, Nuthall, Nottingham, NG16",Detached,3,3,325000.0
+"Deer Park Drive, Arnold, Nottingham",Detached,3,3,325000.0
+"Invaders Close, Long Eaton, Nottingham",Detached,3,3,325000.0
+"Smithurst Road, Giltbrook, Nottingham",Detached,4,4,325000.0
+"12a Buttermere Drive, Bramcote, NG9 3BL",Bungalow,3,3,325000.0
+"Exchange Road, West Bridgford",Terraced,4,4,325000.0
+"Clipstone Avenue, Mapperley, Nottingham",Detached,3,3,325000.0
+"Old Acres, Woodborough, Nottinghamshire, NG14 6ES",Semi-Detached Bungalow,3,3,325000.0
+"Ruskin Avenue, Long Eaton NG10 3HX",Detached,3,3,325000.0
+"Newtondale Close, Nottingham, Nottinghamshire, NG8",Detached,4,4,325000.0
+"Oakfields Road, West Bridgford, Nottingham",Ground Flat,2,2,180000.0
+"Bridle Road, Burton Joyce",Plot for sale,,,325000.0
+"Western Boulevard, Whitemoor, Nottinghamshire, NG8 5GT",Detached,3,3,325000.0
+"Somersby Road, Mapperley, Nottingham",Semi-Detached,5,5,325000.0
+"Stoke Lane, Gedling, Nottingham",Detached,3,3,325000.0
+"Stirling Gardens, Chilwell",Detached,3,3,325000.0
+"Burgh Hall Close, Beeston, Nottingham, NG9",Detached,3,3,325000.0
+"Syke Road, Heron Ridge, Nottinghamshire, NG5 9BL",Detached,5,5,325000.0
+"Whitby Crescent, Woodthorpe, Nottingham",Detached,3,3,325000.0
+"Salcombe Crescent, Ruddington NG11 6FZ",Semi-Detached,3,3,325000.0
+"Tyne Gardens, Hucknall, Nottinghamshire, NG15 6GU",Detached,3,3,325000.0
+"Stewart Way, Annesley, NG15",Detached,5,5,325000.0
+"Queens Drive, Nuthall, Nottingham",Detached Bungalow,3,3,325000.0
+"High Street, Hucknall, Nottinghamshire, NG15 7HG",Detached Bungalow,3,3,325000.0
+"Tamarix Close, Gedling, Nottingham",Bungalow,3,3,325000.0
+"Wintringham Crescent, Woodthorpe, Nottingham",Detached,3,3,325000.0
+"Whittingham Road, Mapperley, Nottingham",Detached,3,3,325000.0
+"Turnberry Road, Nottingham, NG6",Detached Bungalow,3,3,325000.0
+"Cavendish Avenue, Gedling, Nottingham",Detached,4,4,325000.0
+"High Main Drive, Bestwood Village, Nottinghamshire, NG6 8YU",Detached,4,4,325000.0
+"Orston Drive, Wollaton, Nottingham, NG8",Semi-Detached Bungalow,4,4,325000.0
+"Averton Square, Wollaton",Semi-Detached Bungalow,4,4,325000.0
+"Breckhill Road, Woodthorpe, Nottingham, Nottinghamshire, NG5",Bungalow,2,2,325000.0
+"Burnside Grove, Tollerton, Nottingham",Detached,3,3,325000.0
+"Covert Road, West Bridgford, Nottinghamshire, NG2 6GP",Semi-Detached,3,3,325000.0
+"Greenacre, Edwalton, Nottingham",Semi-Detached,3,3,299950.0
+"Eltham Road, West Bridgford, Nottingham",Semi-Detached,3,3,325000.0
+"Latimer Drive, Bramcote, Nottingham, Nottinghamshire, NG9",Semi-Detached,3,3,325000.0
+"Ivy Close, Watnall, Nottingham",Detached Bungalow,3,3,325000.0
+"Longmoor Lane, Sandiacre, Nottingham",Semi-Detached,4,4,325000.0
+"North Street, Newthorpe, Nottingham, NG16",Detached Bungalow,3,3,325000.0
+"Somerton Avenue, Wilford, Nottinghamshire, NG11 7FD",Detached,3,3,325000.0
+"Peveril Drive, West Bridgford, Nottinghamshire, NG2 7AU",Semi-Detached,3,3,325000.0
+"Rolleston Drive, Arnold, Nottinghamshire, NG5 7JH",Detached Bungalow,2,2,325000.0
+"Eastdale Road, Bakersfield, Nottingham",Detached Bungalow,3,3,325000.0
+"Kenrick Road, Mapperley, Nottingham, NG3",Detached,3,3,325000.0
+"Sandringham Road, Sandiacre",Detached,3,3,325000.0
+"Seaburn Road, Toton",Detached Bungalow,2,2,325000.0
+"Cator Lane, Chilwell NG9 4BG",Semi-Detached,3,3,325000.0
+"Penarth Gardens, Nottingham",Semi-Detached,4,4,325000.0
+"Edgewood Drive, Nottingham",Detached,3,3,325000.0
+"Moorsholm Drive, Nottingham, Nottinghamshire, NG8",Detached,3,3,325000.0
+"Jumelles Drive, Calverton, Nottingham",Detached,3,3,325000.0
+"Canal Street, Nottingham, NG1",Flat,3,3,325000.0
+"Elms Park, Ruddington",Semi-Detached,3,3,325000.0
+"Wilne Road, Sawley",Cottage,3,3,325000.0
+"Park Road,
+Calverton,
+Nottingham,
+NG14 6BP",Detached,4,4,324995.0
+"Hampton Close, Toton",Detached Bungalow,3,3,320000.0
+"(Plot 3) Block A, The Yacht Club, NG2",Apartment,2,2,320000.0
+"Trowell Park Drive, Trowell",Detached,3,3,320000.0
