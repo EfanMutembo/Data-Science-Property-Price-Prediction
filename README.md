@@ -1,6 +1,9 @@
 # Data-Science-Property-Price-Prediction
 In this project I have collated my skills in ML and webscraping to collect data on the Nottingham housing market and train a ML model to predict house prices.
 
+Medium Article Click Here: https://medium.com/@mutemboe1/using-web-scraping-python-and-machine-learning-to-predict-house-prices-efc4bb1a47d9
+
+
 Introduction
 
 In this repo I went from house listings on Rightmove to predicating house prices in Nottingham.
